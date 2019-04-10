@@ -16,5 +16,6 @@ method for the inner loop.
 
 ### References
 Elad Hazan & Kfir Y. Levy, Bandit Convex Optimization: Towards Tight Bounds. Neurips 2014.
+
 Ohad Shamir, On the complexity of bandit and derivative-free stochastic convex optimization JMLR 2013.
 
